@@ -1,0 +1,59 @@
+.row{
+    width: 1200px;
+    height: 500px;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.cl{
+    color: gray;
+    float: left;
+    margin-left: 100px;
+}
+.img{
+    width: 80px;
+    height: 40px;
+    list-style: none;
+    position: relative;
+    background-image: url(../rasmalar/06.jpg);
+    background-repeat: no-repeat;
+    background-position: -100px -225px;
+    margin: 2px 0;
+    margin-left: 270px;
+    margin-top: -450px;
+}
+.img2{
+    width: 80px;
+    height: 40px;
+    list-style: none;
+    position: relative;
+    background-image: url(../rasmalar/06.jpg);
+    background-repeat: no-repeat;
+    background-position: -240px -225px;
+    margin: 2px 0;
+    margin-left: 370px;
+    margin-top: -450px;
+}
+.img3{
+    width: 80px;
+    height: 40px;
+    list-style: none;
+    position: relative;
+    background-image: url(../rasmalar/06.jpg);
+    background-repeat: no-repeat;
+    background-position: -360px -225px;
+    margin: 2px 0;
+    margin-left: 470px;
+    margin-top: -450px;
+}
+.img4{
+    width: 80px;
+    height: 40px;
+    list-style: none;
+    position: relative;
+    background-image: url(../rasmalar/06.jpg);
+    background-repeat: no-repeat;
+    background-position: -480px -225px;
+    margin: 2px 0;
+    margin-left: 540px;
+    margin-top: -450px;
+}
